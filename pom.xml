@@ -209,7 +209,7 @@
     </dependencies>  
   
     <build>  
-        <finalName>com.maven.web</finalName>
+        <finalName>shiro-demo</finalName>
         <plugins>
 	      <plugin>
 	        <groupId>org.apache.maven.plugins</groupId>
